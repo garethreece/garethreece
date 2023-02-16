@@ -4,6 +4,7 @@ Greetings Earthlings! 👋👽
 🚀 As an experienced engineer and education professional with over 19 years of experience in the industry and beyond, double Master's degree-qualified, and a passion for software engineering, I'm on a mission to develop out-of-this-world projects! Currently, I'm putting the finishing touches on my training with HyperionDev's Python programming boot camp, and I'm proud to say that I'm maintaining a 100% pass rate. My areas of expertise include Python, MySQL, HTML, and CSS, but I'm always eager to learn new programming languages and technologies for the benefit of organisations.
 
 👨‍🚀 Here are some of my key skills:
+
   ★ Leadership
   ★ First-class MEng and MRes qualified
   ★ Project management
@@ -11,6 +12,7 @@ Greetings Earthlings! 👋👽
   ★ Strong problem-solving
 
 🛸 And here's my tech stack:
+
   ★ Languages: Python, HTML, CSS, MySQL
   ★ Technologies: Django, PowerBI, NPL, OOP, Bootstrap
   ★ Other: Teams, Microsoft Office, Excel, AutoCAD Inventor, Git, Databases
