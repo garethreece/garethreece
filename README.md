@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**garethreece/garethreece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/garethreece/garethreece/blob/main/garf_sunset.png" alt="Gareth Sunset Background">
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
