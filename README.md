@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/garethreece/garethreece/blob/main/electronics.png" alt="Background Electronics">
+<img align="right" src="https://github.com/garethreece/garethreece/blob/main/electronics.png" width="1000" height="500" alt="Background Electronics">
 
 
 
